@@ -1,4 +1,4 @@
-# general-resources
+# General resources 
 
 This repository hosts a simple list of resources for students that are useful across the different courses.
 

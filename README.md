@@ -12,7 +12,7 @@ This repository hosts a simple list of resources for students that are useful ac
 
 * Clark, R. P. (2006). [*Writing tools: 50 essential strategies for every writer*](https://www.amazon.com/Writing-Tools-Essential-Strategies-Writer/dp/0316014990). Little, Brown, and Co.,  New York.
 
-* Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., and FitzGerald, W. T. (2016). [The craft of research.](https://books.google.de/books?id=SjPqDAAAQBAJ&dq=The%20Craft%20of%20Research&hl=de&source=gbs_book_other_versions) University of Chicago Press., Chicago, IL.
+* Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & FitzGerald, W. T. (2016). [*The craft of research*.](https://books.google.de/books?id=SjPqDAAAQBAJ&dq=The%20Craft%20of%20Research&hl=de&source=gbs_book_other_versions) University of Chicago Press., Chicago, IL.
 
 * King, S. (2000). [*On writing: A memoir of the craft*](https://www.amazon.de/Writing-Memoir-Craft-Stephen-King/dp/1439156816). Scribner,  New York.
 

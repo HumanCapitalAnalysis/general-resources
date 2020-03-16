@@ -22,12 +22,6 @@ This repository hosts a simple list of resources for students that are useful ac
 
 * Wallwork, A. (2016). [*English for presentations at international conferences*](https://www.amazon.de/Presentations-International-Conferences-Academic-Research/dp/3319263285/ref=sr_1_fkmr0_1?keywords=andy+wallwork&qid=1554104154&s=gateway&sr=8-1-fkmr0). Springer International Publishing, Basel, Switzerland.
 
-## Scientific software development
+## Scientific computing
 
-* Rossant, C. (2018). [*IPython interactive computing and visualization cookbook*](https://www.packtpub.com/big-data-and-business-intelligence/ipython-interactive-computing-and-visualization-cookbook-second-e). Packt Publishing, Birmingham, England. 
-
-* VanderPlas, J. (2016). [*Python data science handbook*](https://www.oreilly.com/library/view/python-data-science/9781491912126/). O'Reilly Media, Inc., Sebastopol, CA.
-
-* Ramalho, L. (2015). [*Fluent Python. Clear, concise, and effective programming*](https://www.amazon.de/Fluent-Python-Luciano-Ramalho/dp/1491946008). O'Reilly Media, Inc., Sebastopol, CA.
-
-* Varoquaux, G., Haenel, V., Gouillart, E., Jędrzejewski-Szmek, Z., Gommers, R., Pedregosa, F., … yasutomo57jp. (2015). Scipy lecture notes. Retrieved from https://scipy-lectures.org/
+We maintain a curated list of resources at [ose-resources.readthedocs.io](https://ose-resources.readthedocs.io).

@@ -4,23 +4,23 @@ This repository hosts a simple list of resources for students that are useful ac
 
 ## Academic writing and reading
 
-* Strunk, W., and White, E. B. (1999). [*The elements of style*](https://www.amazon.de/Elements-Style-B-White/dp/020530902X/ref=sr_1_1?keywords=strunk+white&qid=1554104134&s=gateway&sr=8-1). Allyn & Bacon, Boston, MA.
+* Strunk, W., and White, E. B. (2000). [*The elements of style*](https://www.pearson.com/us/higher-education/program/Strunk-Elements-of-Style-The-4th-Edition/PGM258483.html). New York, NY: Pearson.
 
-* Wallwork, A. (2016). [*English for writing research papers*](https://www.amazon.de/English-Writing-Research-Papers-Academic/dp/B01JO334QK/ref=sr_1_fkmr0_1?keywords=andy+wallwork&qid=1554104165&s=gateway&sr=8-1-fkmr0). Springer International Publishing, Basel, Switzerland.
+* Wallwork, A. (2016). [*English for writing research papers*](https://www.springer.com/gp/book/9783319260921). Basel, Switzerland:  Springer International Publishing.
 
-* Adler, M. J. and Van Doren C. (1972). [*How to read a book*](https://www.amazon.de/How-Read-Book-Mortimer-Adler/dp/0671212095/ref=sr_1_1?keywords=how+to+read+a+book&qid=1554104187&s=gateway&sr=8-1). Touchstone, New York City, NY. 
+* Adler, M. J. and Van Doren C. (1972). [*How to read a book*](http://www.harvard.com/book/how_to_read_a_book_a_touchstone_book/). New York City, NY: Touchstone. 
 
-* Clark, R. P. (2006). [*Writing tools: 50 essential strategies for every writer*](https://www.amazon.com/Writing-Tools-Essential-Strategies-Writer/dp/0316014990). Little, Brown, and Co.,  New York.
+* Clark, R. P. (2008). [*Writing tools: 50 essential strategies for every writer*](https://www.littlebrown.com/titles/roy-peter-clark/writing-tools/9780316028400/). New York City, NY: Little, Brown, and Company.
 
-* Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., and FitzGerald, W. T. (2016). [*The craft of research*.](https://books.google.de/books?id=SjPqDAAAQBAJ&dq=The%20Craft%20of%20Research&hl=de&source=gbs_book_other_versions) University of Chicago Press., Chicago, IL.
+* Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., and FitzGerald, W. T. (2016). [*The craft of research*.](https://press.uchicago.edu/ucp/books/book/chicago/C/bo23521678.html) Chicago, IL: University of Chicago Press.
 
-* King, S. (2000). [*On writing: A memoir of the craft*](https://www.amazon.de/Writing-Memoir-Craft-Stephen-King/dp/1439156816). Scribner,  New York.
+* King, S. (2010). [*On writing: A memoir of the craft*](https://www.simonandschuster.com/books/On-Writing/Stephen-King/9781439156810). New York City, NY: Scribner.
 
-* McCloskey, D. N. (2000). [*Economical writing*](https://www.amazon.com/Economical-Writing-Deirdre-McCloskey/dp/1577660633). Waveland Press, Long Grove, IL.
+* McCloskey, D. N. (2019). [*Economical writing*](https://press.uchicago.edu/ucp/books/book/chicago/E/bo25674588.html). Chicago, IL: University of Chicago Press.
 
 ## Academic presentations
 
-* Wallwork, A. (2016). [*English for presentations at international conferences*](https://www.amazon.de/Presentations-International-Conferences-Academic-Research/dp/3319263285/ref=sr_1_fkmr0_1?keywords=andy+wallwork&qid=1554104154&s=gateway&sr=8-1-fkmr0). Springer International Publishing, Basel, Switzerland.
+* Wallwork, A. (2016). [*English for presentations at international conferences*](https://www.springer.com/de/book/9783319263281). Basel, Switzerland: Springer International Publishing.
 
 ## Scientific computing
 

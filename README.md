@@ -26,4 +26,4 @@ This repository hosts a simple list of resources for students that are useful ac
 
 ## Scientific computing
 
-We maintain a curated list of resources at [opensourceeconomics.github.io/resources](https://opensourceeconomics.github.io/resources/).
+We maintain a curated list of resources at [https://opensourceeconomics.github.io/resources](https://opensourceeconomics.github.io/resources/).

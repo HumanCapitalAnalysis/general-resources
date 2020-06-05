@@ -18,7 +18,7 @@ This repository hosts a simple list of resources for students that are useful ac
 
 * McCloskey, D. N. (2019). [*Economical writing*](https://press.uchicago.edu/ucp/books/book/chicago/E/bo25674588.html). Chicago, IL: University of Chicago Press.
 
-* McFee, J. (2017). [*Draft No. 4: On the writing process*] (https://us.macmillan.com/books/9780374142742). New York City, NY: Macmillan.
+* McFee, J. (2017). [*Draft No. 4: On the writing process*](https://us.macmillan.com/books/9780374142742). New York City, NY: Macmillan.
 
 ## Academic presentations
 

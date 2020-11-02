@@ -20,6 +20,8 @@ This repository hosts a simple list of resources for students that are useful ac
 
 * McFee, J. (2017). [*Draft No. 4: On the writing process*](https://us.macmillan.com/books/9780374142742). New York City, NY: Macmillan.
 
+* Silva, P. J. (2019). [*How to Write a Lot: A Practical Guide to Productive Academic Writing*](https://www.apa.org/pubs/books/4441031). Washington, DC: American Psychological Association.
+
 ## Academic presentations
 
 * Wallwork, A. (2016). [*English for presentations at international conferences*](https://www.springer.com/de/book/9783319263281). Basel, Switzerland: Springer International Publishing. 
